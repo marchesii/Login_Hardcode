@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login_Hardcode</string>
+    <string name="usuario">Usuário</string>
+    <string name="numeros_do_prontuario">Números do prontuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="xxxx">Erro no login</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="user">user</string>
+    <string name="pass">pass</string>
+    <string name="error_Login">Erro no Login</string>
+    <string name="Login_Hardcode">Login Hardcode</string>
+</resources>
